@@ -9,3 +9,7 @@ This is a very simple script I have put together. It is primarily based on NoPix
 ## Preview
 
 ![Example Image](https://i.imgur.com/DoWdpW2.png)
+
+## Credits
+
+I used [Eblio's](https://github.com/eblio) script called [3dme](https://github.com/eblio/3dme) and recoded it. Big thanks to him.
